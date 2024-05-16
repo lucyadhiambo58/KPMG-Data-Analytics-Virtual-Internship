@@ -1,17 +1,19 @@
-KPMG-Data-Analytics-Virtual-Internship
+
 The KPMG Data Analytics Virtual Internship is designed to help us gain a practical insight into the work done at KPMG and it is an opportunity for us to build career skills and experience.
 
 **Introduction**
 
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks:
 
-Task 1: Data Quality Assessment
+**Task 1: Data Quality Assessment**
+
 Assessment of data quality and completeness in preparation for analysis
 The client provided KPMG with 3 datasets:
 
-Customer Demographic
-Customer Addresses
-Transactions data in the past 3 months
+1. Customer Demographic
+2. Customer Addresses
+3. Transactions data in the past 3 months
+   
 We performed the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
 **Task 2: Data Insights**
